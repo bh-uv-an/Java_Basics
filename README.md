@@ -1,2 +1,5 @@
 # Java_Basics
-This just so that I can remember all the concepts before I go interview 
+<br>
+<h1>This just so that I can remember all the concepts </h1>
+</br>
+<hr>

@@ -1,4 +1,4 @@
-Create the multiplication table of a given number N and return the table as an array.
+/*Create the multiplication table of a given number N and return the table as an array.
 
 
 Example 1:
@@ -23,6 +23,7 @@ Output:
 Your Task:  
 You don't need to read input. Your task is to complete the function getTable() which takes an integer N as input parameter and returns a list of integers denoting the 
 multiplication of table of N from 1 to 10. 
+*/
 
 import java.util.Scanner;
 import java.util.ArrayList;
@@ -47,7 +48,7 @@ public class Multiplication_Table {
         sc.close();
     }
 }
-
+/*
 Output: 
 
 "C:\Program Files\Microsoft\jdk-17.0.11.9-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\lib\idea_rt.jar=52269:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\LENOVO\IdeaProjects\Print The Pattern\out\production\Print The Pattern" Multiplication_Table
@@ -65,3 +66,4 @@ Enter the number
 50
 
 Process finished with exit code 0
+*/

@@ -4,4 +4,5 @@
  1. Print the pattern<br>
  2. Series AP<br>
  3. Print table (Multiplication table using Array List) <br>
+ 4. Sum of Digit is Pallindrome or not<br>
  </p>

@@ -8,4 +8,4 @@
  4. Sum of Digit is Pallindrome or not<br>
  5. Reversing Digits<br>
  </p>
-<hr>
+<br>

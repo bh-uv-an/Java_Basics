@@ -1,4 +1,4 @@
-You are given a number N. You need to print the pattern for the given value of N.
+/*You are given a number N. You need to print the pattern for the given value of N.
 
 For N = 2 the pattern will be 
 2 2 1 1
@@ -26,8 +26,10 @@ Output:
 Your Task:
 Since this is a function problem, you don't need to worry about the test cases. Your task is to complete the function printPat() which takes one argument 'N' denoting 
 the length of the pattern.
+*/
 
-Code: 
+//Code: 
+
 import java.util.Scanner;
 
 public class Set_1 {
@@ -55,9 +57,10 @@ public class Set_1 {
 
 
 
-Output:
+/*Output:
 Enter the number 
 3
  3 3 3 2 2 2 1 1 1
  3 3 2 2 1 1
  3 2 1
+*/

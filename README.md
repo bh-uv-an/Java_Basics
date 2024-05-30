@@ -9,3 +9,6 @@
  5. Reversing Digits<br>
  </p>
 <br>
+  <h3> String </h3>
+  1. Pallindrome String<br>
+<br>

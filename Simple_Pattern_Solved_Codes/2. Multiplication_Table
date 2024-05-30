@@ -48,3 +48,21 @@ public class Multiplication_Table {
     }
 }
 
+Output: 
+
+"C:\Program Files\Microsoft\jdk-17.0.11.9-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\lib\idea_rt.jar=52269:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\LENOVO\IdeaProjects\Print The Pattern\out\production\Print The Pattern" Multiplication_Table
+Enter the number 
+5
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+
+Process finished with exit code 0
+

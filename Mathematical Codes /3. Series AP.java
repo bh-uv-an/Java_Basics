@@ -1,4 +1,4 @@
-Given the first 2 terms a1 and a2 of an Arithmetic Series.Find the nth term of the series. 
+/*Given the first 2 terms a1 and a2 of an Arithmetic Series.Find the nth term of the series. 
 
 Example 1:
 
@@ -25,6 +25,7 @@ Thus,10th term is 19.
 Your Task:
 You don't need to read input or print anything.Your Task is to complete the function nthTermOfAP() which takes three integers a1, a2 and n as input parameters and returns 
 the nth term of the AP that has a1 and a2 as the first and second terms respectively.
+*/
 
 import java.util.Scanner;
 public class Set_2_Series_AP {
@@ -49,7 +50,7 @@ public class Set_2_Series_AP {
         sc.close();
     }
 }
-
+/*
 Output:
 
 "C:\Program Files\Microsoft\jdk-17.0.11.9-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\lib\idea_rt.jar=64750:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.1.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\LENOVO\IdeaProjects\Print The Pattern\out\production\Print The Pattern" Set_2_Series_AP
@@ -63,3 +64,4 @@ Enter the position in the series
 19
 
 Process finished with exit code 0
+*/
